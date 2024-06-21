@@ -1,0 +1,82 @@
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skibibi gng Discord Server</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        .description {
+            margin-bottom: 20px;
+        }
+        .rules {
+            margin-top: 20px;
+        }
+        .rules ul {
+            list-style-type: none;
+            padding-left: 20px;
+        }
+        .rules ul li {
+            margin-bottom: 10px;
+        }
+        .discord-link {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .discord-link a {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #7289DA;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .discord-link a:hover {
+            background-color: #677BC4;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to Skibibi gng Discord Server!</h1>
+            <div class="description">
+                <p>Skibibi gng is a hangout server for ages 12-15, focusing on hangout and online games.</p>
+            </div>
+            <div class="rules">
+                <h2>Rules of Skibibi gng:</h2>
+                <ul>
+                    <li><strong>No cussing about family:</strong> Warning</li>
+                    <li><strong>No fighting:</strong> 60s timeout</li>
+                    <li><strong>Getting Jokic music in yapping (#1-#6):</strong> Warning</li>
+                    <li><strong>No bullying:</strong> Warning + 60s timeout</li>
+                    <li><strong>Keep yapping non-stop and people are getting annoyed of you:</strong> 60s timeout</li>
+                    <li><strong>Keep begging:</strong> 60s timeout</li>
+                    <li><strong>Doesn't follow the rules:</strong> 5min timeout + Warning</li>
+                    <li><strong>Moving someone to another call without their permission:</strong> Warning</li>
+                    <li><strong>Spamming soundboards:</strong> 60s timeout</li>
+                    <li><strong>Sending NSFW:</strong> Warning + 60s timeout</li>
+                </ul>
+            </div>
+            <div class="discord-link">
+                <a href="https://discord.gg/nFvJHNWF" target="_blank">Join Skibibi gng Discord Server</a>
+            </div>
+        </header>
+    </div>
+</body>
+</html>
+```
